@@ -1,0 +1,12 @@
+E:\Save\Projects\YMH321\Odev6\Solution\SSID\SSID\bin\Debug\SSID.exe
+E:\Save\Projects\YMH321\Odev6\Solution\SSID\SSID\bin\Debug\SSID.pdb
+E:\Save\Projects\YMH321\Odev6\Solution\SSID\SSID\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Save\Projects\YMH321\Odev6\Solution\SSID\SSID\obj\x86\Debug\SSID.exe
+E:\Save\Projects\YMH321\Odev6\Solution\SSID\SSID\obj\x86\Debug\SSID.pdb
+E:\Save\Projects\YMH321\Odev6\Solution\SSID\SSID\obj\x86\Debug\SSID.csproj.ResolveComReference.cache
+E:\Save\Projects\YMH321\Odev7\Solution\SSID\SSID\obj\x86\Debug\SSID.csproj.ResolveComReference.cache
+E:\Save\Projects\YMH321\Odev7\Solution\SSID\SSID\obj\x86\Debug\SSID.exe
+E:\Save\Projects\YMH321\Odev7\Solution\SSID\SSID\obj\x86\Debug\SSID.pdb
+E:\Save\Projects\YMH321\Odev7\Solution\SSID\SSID\bin\Debug\SSID.exe
+E:\Save\Projects\YMH321\Odev7\Solution\SSID\SSID\bin\Debug\SSID.pdb
+E:\Save\Projects\YMH321\Odev7\Solution\SSID\SSID\obj\x86\Debug\ResolveAssemblyReference.cache
